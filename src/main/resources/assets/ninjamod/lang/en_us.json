@@ -1,0 +1,14 @@
+{
+  "item.ninjamod.soap_water_bucket": "Soap Water Bucket",
+  "item.ninjamod.chomper_spawn_egg": "Chomper Spawn Egg",
+
+  "block.ninjamod.operator_station": "Operator Station",
+  "block.ninjamod.soap_water": "Soap Water",
+
+  "entity.minecraft.villager.jumpmaster": "Jump Master",
+
+  "key.category.ninjamod.main": "Ninja Mod",
+
+  "ninjamod.tooltip.liquid.amount.with.capacity": "%s / %s mB",
+  "ninjamod.tooltip.liquid.amount": "%s mB"
+}

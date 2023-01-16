@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "ninjamod",
+  "version": "${version}",
+  "name": "NinjaMod",
+  "description": "A simple mod.",
+  "authors": [
+    "frisby_ninja"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/ninjamod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "net.ninjaworks.ninjamod.client.NinjaModClient"
+    ],
+    "main": [
+      "net.ninjaworks.ninjamod.NinjaMod"
+    ]
+  },
+  "mixins": [
+    "NinjaMod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.12",
+    "fabric": "*",
+    "minecraft": "1.19.3"
+  }
+}

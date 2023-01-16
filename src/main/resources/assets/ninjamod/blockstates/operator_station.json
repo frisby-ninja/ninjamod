@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "ninjamod:block/operator_station"
+    },
+    "facing=south": {
+      "model": "ninjamod:block/operator_station",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "ninjamod:block/operator_station",
+      "y": 270
+    },
+    "facing=east": {
+      "model": "ninjamod:block/operator_station",
+      "y": 90
+    }
+  }
+}
