@@ -23,6 +23,6 @@ public abstract class PlayerMixin {
 
     @Inject(method = "tick", at = @At("TAIL"))
     protected void injectNinjaModTickMethod(CallbackInfo ci) {
-        //Energy loss code
+        
     }
 }

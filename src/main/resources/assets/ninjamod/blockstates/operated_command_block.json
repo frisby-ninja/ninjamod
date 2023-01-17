@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "ninjamod:block/operated_command_block" }
+  }
+}

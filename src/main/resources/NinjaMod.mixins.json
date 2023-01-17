@@ -4,6 +4,7 @@
   "package": "net.ninjaworks.ninjamod.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
+    "CommandBlockMixin",
     "EntityMixin",
     "PlayerMixin"
   ],
